@@ -47,3 +47,12 @@ flex-shrink allows an item to shrink if there is no enough free space available.
 flex-basis defines the size of an item before space is distributed.
 flex is the shorthand for flex-grow + flex-shrink + flex-basis.
 flex-self has the ability to align one single item within the flex container.
+
+6.What are the different types of Selectors in CSS?
+Ans. CSS selectors are used to "find" (or select) the HTML elements you want to style.
+We can divide CSS selectors into five categories:
+Simple selectors (select elements based on name, id, class)
+Combinator selectors (select elements based on a specific relationship between them)
+Pseudo-class selectors (select elements based on a certain state)
+Pseudo-elements selectors (select and style a part of an element)
+Attribute selectors (select elements based on an attribute or attribute value)
